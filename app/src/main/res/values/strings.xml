@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">StoryApp</string>
     <string name="storyapp">StoryApp</string>
+    <string name="storyapp">StoryApp</string>
+    <string name="random_story">Random Story</string>
+    <string name="stories">Stories</string>
+    <string name="categories">Categories</string>
+    <string name="more">More</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="rate_us">Rate Us</string>
 </resources>
