@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">StoryApp</string>
     <string name="storyapp">StoryApp</string>
-    <string name="storyapp">StoryApp</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
     <string name="random_story">Random Story</string>
     <string name="stories">Stories</string>
     <string name="categories">Categories</string>
