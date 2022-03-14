@@ -27,6 +27,6 @@ class ItemAdapter(val storyTitles: Array<String>, val storyContents: Array<Strin
     }
 
     override fun getItemCount(): Int {
-        return 10
+        return storyTitles.size
     }
 }
