@@ -12,9 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StoryApp">
         <activity
+            android:name=".DeatilsActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
-            android:theme="@style/Theme.StoryAppV2.NoActionBar"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/Theme.StoryAppV2.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
